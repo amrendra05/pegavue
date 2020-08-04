@@ -12,7 +12,7 @@
 
 This repo is an example application using Vue with the Pega DX API.
 
-## Installation Instructions
+## Installation Instructions small update
 
 1.  Install Node Package Manager (npm) which is distributed with Node.js. Installation link [here](https://nodejs.org).
 2.  Using a terminal, cd into the root directory (the directory this file is in).
@@ -195,4 +195,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Other Resources
 ```
 The [Dashboard Vue and Element scaffolding example](https://github.com/zce/dashboard) was leveraged as the starting point for this app, and various unused portions have been eliminated
-
