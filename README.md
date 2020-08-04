@@ -12,7 +12,7 @@
 
 This repo is an example application using Vue with the Pega DX API.
 
-## Installation Instructions small update good
+## Installation Instructions small update good ge
 
 1.  Install Node Package Manager (npm) which is distributed with Node.js. Installation link [here](https://nodejs.org).
 2.  Using a terminal, cd into the root directory (the directory this file is in).
