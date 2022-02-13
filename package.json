@@ -10,7 +10,7 @@
     "start": "vue-cli-service serve"
   },
   "dependencies": {
-    "ajv": "^6.6.2",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "element-ui": "^2.4.11",
     "moment": "^2.23.0",
